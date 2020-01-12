@@ -21,6 +21,13 @@ Steam Workshop OPTRE Ace Compat- https://steamcommunity.com/sharedfiles/filedeta
 
 - Bug Reporting
 
+-Change these setting under Ace Medical (Temporary until next ace update)
+(If these settings are on default, any Optre unit wearing a vest will take 25+ rounds to take down)
+
+Fatal damage source - sum of trauma or either
+AI Critical Damage Threshold - 0.30 to 0.50
+Player Critical Damage Threshold - 0.30 to 0.50
+
 Being an Alpha Release, this mod is more than likely riddled with bugs, despite our best efforts.
 In the event you encounter any, report them on our subreddit at reddit.com/r/operationtrebuchet or on our discord at https://discord.gg/5uKWPCd.
 
