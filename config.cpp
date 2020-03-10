@@ -2,16 +2,15 @@
 
 class CfgPatches
 {
-    class ADDON
+    class OPTRE_ACE_Compat
     {
-        name = COMPONENT_NAME;
         units[] = {};
         weapons[] = {};
-        requiredVersion = REQUIRED_VERSION;
+        requiredVersion = 1.62;
+        version = 0.1;
         requiredAddons[] = {"OPTRE_Weapons", "OPTRE_UNSC_Units", "OPTRE_MJOLNIR", "OPTRE_MJOLNIR_data_anims", "OPTRE_Ins_Units", "ace_common", "ace_explosives", "ace_medical_engine", "ace_medical_treatment"};
         author = "Article 2 Studios";
-        url = ;
-        VERSION_CONFIG;
+        fileName = "OPTRE_ACE_Compat.pbo";
     };
 };
 

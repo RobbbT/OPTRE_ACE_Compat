@@ -1,3 +1,5 @@
+v.0.5.1
+	- Updated ace compat to work with ace 3.13.1 and other future ace updates
 
 v0.5
 	- Medical Rewrite compatibility
